@@ -54,13 +54,13 @@ h4 {
   background-size: cover;
 }
 #gift-img-happy:hover {
-  background-image: url("happy.gif");
+  background-image: url("gif3.webp");
 }
 #gift-img-hot:hover {
-  background-image: url("hot.gif");
+  background-image: url("gif2.webp");
 }
 #gift-img-genius:hover {
-  background-image: url("genius.gif");
+  background-image: url("gif1.gif");
 }
 #gift-img-badass:hover {
   background-image: url("badass.gif");
